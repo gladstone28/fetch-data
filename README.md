@@ -1,3 +1,6 @@
+link to lesson:
+https://www.codecademy.com/courses/react-101/lessons/the-effect-hook/exercises/fetch-data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
